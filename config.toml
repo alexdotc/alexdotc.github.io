@@ -2,3 +2,12 @@ baseURL = "https://alexchavk.in/"
 languageCode = "en-us"
 title = "Alex Chavkin"
 theme = "minima"
+
+[[params.social]]
+name = "github"  
+url = "https://github.com/alexdotc"
+svg = ""
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/alex-chavkin"
+svg = ""
