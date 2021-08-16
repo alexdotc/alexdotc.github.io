@@ -11,3 +11,8 @@ svg = ""
 name = "linkedin"
 url = "https://www.linkedin.com/in/alex-chavkin"
 svg = ""
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
