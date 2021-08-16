@@ -1,5 +1,3 @@
 # alexdotc.github.io
-My personal website
 
-Tools
-- Hugo
+[My Personal Website](https://alexchavk.in)
